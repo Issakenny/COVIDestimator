@@ -1,6 +1,6 @@
 # #BuildForSDG Cohort-1 Python Assessment
 
-> Build an overly simplified COVID-19 infection impact estimator
+> Build an overly simplified COVID-19 infection impact estimator.
 
 This is an eligibility assessment for the 2020 [#BuildforSDG](https://buildforsdg.andela.com/) program
 
